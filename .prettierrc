@@ -1,0 +1,9 @@
+{
+    "singleQuote": false,
+    "printWidth": 150,
+    "proseWrap": "always",
+    "tabWidth": 4,
+    "useTabs": false,
+    "trailingComma": true,
+    "semi": true
+}
